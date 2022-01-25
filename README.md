@@ -7,7 +7,7 @@
 <br>
 <br>
 
-## Caso queira ver passo a passo de como fluxo foi construído, [acesse o tutorial em nosso canal no YouTube clicando aqui!](https://www.youtube.com/channel/UCRzgdJSfc5RLJKrrJR06GAg)
+## Caso queira ver passo a passo de como fluxo foi construído, [acesse o tutorial em nosso canal no YouTube clicando aqui!](https://youtu.be/3X2GHK9SpSU)
 
 <br>
 
