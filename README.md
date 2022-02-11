@@ -48,9 +48,9 @@
 Caso este código tenha te ajudo de alguma forma, não deixe de se inscrever no nosso canal no YouTube para acessar mais conteúdos como esse.
 
 <div align="center" >
-<a href='https://www.youtube.com/channel/UCRzgdJSfc5RLJKrrJR06GAg'>
-<h2>Canal da Coffstack no YouTube <h2>
-</a>
+
+### [Canal da Coffstack no YouTube](https://www.youtube.com/channel/UCRzgdJSfc5RLJKrrJR06GAg)
+
 </div>
 
 #
