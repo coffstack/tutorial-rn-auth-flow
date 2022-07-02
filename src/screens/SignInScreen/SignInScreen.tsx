@@ -1,11 +1,12 @@
 import React, {useState} from 'react';
 import {View, Image} from 'react-native';
-import {MyButton} from '../components/MyButton';
-import {MyTextInput} from '../components/MyTextInput';
-import {useAuth} from '../contexts/Auth';
-import {styles} from './styles';
+import {MyButton} from '../../components/MyButton';
+import {MyTextInput} from '../../components/MyTextInput';
+import {useAuth} from '../../contexts/Auth';
+import {styles} from '../styles';
 
-import logo from '../assets/logo.png';
+import logo from '../../assets/logo.png';
+import {Container} from './styles';
 
 export function SignInScreen() {
   const [email, setEmail] = useState('');
@@ -13,7 +14,7 @@ export function SignInScreen() {
   const {signIn} = useAuth();
 
   return (
-    <View style={[styles.container, {justifyContent: 'center'}]}>
+    <Container>
       <Image
         resizeMode="contain"
         source={logo}
@@ -28,6 +29,6 @@ export function SignInScreen() {
       />
 
       <MyButton onPress={() => signIn(email, password)} title="Entrar no App" />
-    </View>
+    </Container>
   );
 }
